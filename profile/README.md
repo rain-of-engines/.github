@@ -1,9 +1,10 @@
-## Welcome of Motorola 6.xx
+## Welcome of Motorola Storm
 
-## Working of Platform SDM660 (4.4 Kernel Version):
+## Working of Platform SDM660/MSM8998 (4.4 Kernel Version):
  - Moto G6 Plus (evert)
  - Moto Z3 Play (beckham)
  - Moto G7 Plus (lake)
+ - Moto Z2 Force (nash)
 
 <p align="center">
  <br>
