@@ -4,7 +4,6 @@
  - Moto G6 Plus (evert)
  - Moto Z3 Play (beckham)
  - Moto G7 Plus (lake)
- - Moto Z2 Force (nash)
 
 <p align="center">
  <br>
